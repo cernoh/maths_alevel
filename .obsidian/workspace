@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Year 2/Mechanics/8. Further kinematics.md",
+            "file": "Year 1/Pure/1. Algebraic Expressions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Mechanics/8. Further kinematics.md",
+                "file": "Year 1/Pure/1. Algebraic Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ea3801b82fa9ed79",
   "lastOpenFiles": [
+    "Year 1/Pure/1. Algebraic Expressions.md",
+    "Year 2/Statistics/1. Regression, correlation & hypothesis testing.md",
     "Year 2/Mechanics/8. Further kinematics.md",
     "Year 2/Mechanics/7. Applications of forces.md",
     "Year 2/Mechanics/6. Projectiles.md",
@@ -96,8 +98,6 @@
     "Year 2/Mechanics/4. Moments.md",
     "Year 2/Statistics/3. The normal distribution.md",
     "Year 2/Statistics/2. Conditional probability.md",
-    "Year 2/Statistics/1. Regression, correlation & hypothesis testing.md",
-    "Year 2/Pure/12. Vectors.md",
-    "Year 2/Pure/11. Integration.md"
+    "Year 2/Pure/12. Vectors.md"
   ]
 }
