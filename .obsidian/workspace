@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Year 2/Mechanics/8. Further kinematics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Year 2/Mechanics/8. Further kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ea3801b82fa9ed79",
   "lastOpenFiles": [
-    "Untitled.md",
-    "8. Parametric equations.md",
-    "7. Trigonometry & modelling.md",
-    "6. Trigonometric functions.md",
-    "5. Radians.md",
-    "4. Binomial expansion.md",
-    "3. Sequences and series.md",
-    "2. Functions & graphs.md",
-    "1. Algebraic methods.md",
-    "README.md"
+    "Year 2/Mechanics/8. Further kinematics.md",
+    "Year 2/Mechanics/7. Applications of forces.md",
+    "Year 2/Mechanics/6. Projectiles.md",
+    "Year 2/Mechanics/5. Forces.md",
+    "Year 2/Mechanics/4. Moments.md",
+    "Year 2/Statistics/3. The normal distribution.md",
+    "Year 2/Statistics/2. Conditional probability.md",
+    "Year 2/Statistics/1. Regression, correlation & hypothesis testing.md",
+    "Year 2/Pure/12. Vectors.md",
+    "Year 2/Pure/11. Integration.md"
   ]
 }
